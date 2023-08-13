@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I am currently a student at the University of Sydney studying B Com and B AdvComp
+- Intern at SSW Sydney - https://ssw.com.au/people/josh-berman
+- I spend my free time surfing and playing football! 
+
 <!--
 **joshbermanssw/joshbermanssw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
