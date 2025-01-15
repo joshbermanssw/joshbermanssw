@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Software Developer at SSW Sydney - https://ssw.com.au/people/josh-berman
-- I am currently a student at the University of Sydney undertaking a double degree in a Bachelor of Advanced Computing (major of Computer Science) and a Bachelor of Commerce (major of Finance)
+- I am currently a 4th year student at the University of Sydney undertaking a double degree in a Bachelor of Advanced Computing (major of Computer Science) and a Bachelor of Commerce (major of Finance)
 - In my free time you'll find me at the beach, surfing or travelling
 
 <!--
