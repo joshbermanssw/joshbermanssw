@@ -15,6 +15,5 @@
 
 ![Top Languages](./profile/top-langs.svg)
 
-![Pinned](./profile/pin-your-repo.svg)
 
 
